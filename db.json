@@ -247,6 +247,14 @@
             "logo" : "https://sierrachurch.vercel.app/images/MountOfTransfiguration.jpg",
             "contact" : "+23278257068",
             "location" : "Gloucester Village"
+        },
+        {
+        "id": 32,
+        "name": "Mountain of God Evangelical Ministries",
+        "address": "1 Wisdom Drive, Sorie Town",
+        "logo" : "https://sierrachurch.vercel.app/images/MountainOfGod.jpg",
+        "contact" : "+23278257068",
+        "location" : "Gloucester Village"
         }
     ]
 }
