@@ -279,6 +279,46 @@
                 "logo" : "https://sierrachurch.vercel.app/images/BattleAxe.jpg",
                 "contact" : "+23288242924",
                 "location" : "Aberdeen"
+            },
+            {
+                "id": 35,
+                "name": "Sanctuary Praise Cathedral",
+                "address": "2 Sawi Drive, Off kingharman Road",
+                "logo" : "https://sierrachurch.vercel.app/images/SanctuaryPriase.jpg",
+                "contact" : "+23276242622",
+                "location" : "Brooksfield"
+            },
+            {
+                "id": 36,
+                "name": "Christ International Worship Center",
+                "address": "YWCA New Hall, Bus Stop",
+                "logo" : "https://sierrachurch.vercel.app/images/CIWC.jpg",
+                "contact" : "+23234036070",
+                "location" : "Brookfields"
+            },
+            {
+                "id": 37,
+                "name": "Bethel Temple Ministries International",
+                "address": "Opposite Rokel Sec. School",
+                "logo" : "https://sierrachurch.vercel.app/images/BethelTemple.jpg",
+                "contact" : "+23276046960",
+                "location" : "Tower Hill"
+            },
+            {
+                "id": 38,
+                "name": "Mt. Zion Fellowship Church",
+                "address": "Kono Compound Balcony, Solo-B Drive",
+                "logo" : "https://sierrachurch.vercel.app/images/MtZion.jpg",
+                "contact" : "+23288989474",
+                "location" : "Goderich"
+            },
+            {
+                "id": 39,
+                "name": "Wilberforce Baptist Church",
+                "address": "3 Main Motor Road",
+                "logo" : "https://sierrachurch.vercel.app/images/WilberforceBaptist.jpg",
+                "contact" : "+23276350283",
+                "location" : "Wilberforce"
             }
     ]
 }
