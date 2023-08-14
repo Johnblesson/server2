@@ -156,7 +156,7 @@
             "id": 18,
             "name": "New Harvest Ministries",
             "address": "Railway Quarters Off Prince Williams Street",
-            "logo" : "https://sierrachurch.vercel.app/images/NewHarvest",
+            "logo" : "https://sierrachurch.vercel.app/images/NewHarvest.jpg",
             "contact" : "+23278908012",
             "location" : "Kandeh Town Bo City"
         },
@@ -164,7 +164,7 @@
             "id": 20,
             "name": "Greater Evangelism World Crusade",
             "address": "8 Heddle Street, off Campbell Street",
-            "logo" : "https://sierrachurch.vercel.app/images/GreaterEvangelism",
+            "logo" : "https://sierrachurch.vercel.app/images/GreaterEvangelism.jpg",
             "contact" : "+23299485553",
             "location" : "Campbell Street"
         },
@@ -180,7 +180,7 @@
             "id": 22,
             "name": " Catch the Anointing Church / LightHouse Chapel International",
             "address": "Ogoo Farm",
-            "logo" : "https://sierrachurch.vercel.app/CatchTheAnionting.jpg",
+            "logo" : "https://sierrachurch.vercel.app/images/CatchTheAnionting.jpg",
             "contact" : "+23276549937",
             "location" : " Peninsular, Goderich"
         },
