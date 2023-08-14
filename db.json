@@ -271,6 +271,14 @@
             "logo" : "https://sierrachurch.vercel.app/images/ThusSaithTheLord.jpg",
             "contact" : "+23279017130",
             "location" : "New England ville"
+            },
+            {
+                "id": 34,
+                "name": "Battle AXE Ministry International",
+                "address": "3c Johnson Lane Aberdeen",
+                "logo" : "https://sierrachurch.vercel.app/images/BattleAxe.jpg",
+                "contact" : "+23288242924",
+                "location" : "Aberdeen"
             }
     ]
 }
