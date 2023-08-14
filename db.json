@@ -129,6 +129,14 @@
             "location" : "Circular Road"
         },
         {
+            "id": 34,
+            "name": "Battle AXE Ministry International HQ",
+            "address": "25 Edward Street",
+            "logo" : "https://sierrachurch.vercel.app/images/BattleAxe.jpg",
+            "contact" : "+23299721013",
+            "location" : "Off Sanders Street, St John"
+        },
+        {
             "id": 17,
             "name": "Harvest Intercontinental Church",
             "address": "Ross Road",
@@ -147,8 +155,8 @@
         {
             "id": 18,
             "name": "New Harvest Ministries",
-            "address": "14 Bear swaray street",
-            "logo" : "https://scontent.ffna3-1.fna.fbcdn.net/v/t39.30808-6/306759687_225685966452681_6829315419327093571_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=eEibyhGa-_4AX_-EYbL&_nc_ht=scontent.ffna3-1.fna&oh=00_AfBeiQXYQb7XVRF69NXzqCq0Dhfh_AVEkezD8w7DiSiAQg&oe=64D99EC2",
+            "address": "Railway Quarters Off Prince Williams Street",
+            "logo" : "https://sierrachurch.vercel.app/images/NewHarvest",
             "contact" : "+23278908012",
             "location" : "Kandeh Town Bo City"
         },
@@ -156,7 +164,7 @@
             "id": 20,
             "name": "Greater Evangelism World Crusade",
             "address": "8 Heddle Street, off Campbell Street",
-            "logo" : "https://scontent-lis1-1.xx.fbcdn.net/v/t39.30808-6/338904923_1708464626252940_3038980111264873237_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=10BMzbtVjR8AX-I-Lja&_nc_ht=scontent-lis1-1.xx&oh=00_AfBdNjGtRWRCwdi0s83zBFucBVvxLIBoGZvipgDwZTO0Ww&oe=64D926C9",
+            "logo" : "https://sierrachurch.vercel.app/images/GreaterEvangelism",
             "contact" : "+23299485553",
             "location" : "Campbell Street"
         },
@@ -249,12 +257,20 @@
             "location" : "Gloucester Village"
         },
         {
-        "id": 32,
-        "name": "Mountain of God Evangelical Ministries",
-        "address": "1 Wisdom Drive, Sorie Town",
-        "logo" : "https://sierrachurch.vercel.app/images/MountainOfGod.jpg",
-        "contact" : "+23278257068",
-        "location" : "Gloucester Village"
-        }
+            "id": 32,
+            "name": "Mountain of God Evangelical Ministries",
+            "address": "1 Wisdom Drive, Sorie Town",
+            "logo" : "https://sierrachurch.vercel.app/images/MountainOfGod.jpg",
+            "contact" : "+23278257068",
+            "location" : "Gloucester Village"
+        },
+        {
+            "id": 33,
+            "name": "Thus Saith the Lord Chapel Intl.",
+            "address": "80 Off Pratt Street, New England ville",
+            "logo" : "https://sierrachurch.vercel.app/images/ThusSaithTheLord.jpg",
+            "contact" : "+23279017130",
+            "location" : "New England ville"
+            }
     ]
 }
