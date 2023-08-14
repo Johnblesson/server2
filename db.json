@@ -242,11 +242,11 @@
         },
         {
             "id": 31,
-            "name": "",
-            "address": "",
-            "logo" : "",
-            "contact" : "",
-            "location" : ""
+            "name": "Mount of Transfiguration International Ministry",
+            "address": "Gloucester (Sorie Town By The Transformer)",
+            "logo" : "https://sierrachurch.vercel.app/images/MountOfTransfiguration.jpg",
+            "contact" : "+23278257068",
+            "location" : "Gloucester Village"
         },
         {
             "id": 32,
