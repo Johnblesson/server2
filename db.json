@@ -134,7 +134,7 @@
             "address": "25 Edward Street",
             "logo" : "https://sierrachurch.vercel.app/images/BattleAxe.jpg",
             "contact" : "+23299721013",
-            "location" : "Off Sanders Street, St John"
+            "location" : "St John Area"
         },
         {
             "id": 17,
@@ -423,7 +423,7 @@
                 "address": "Grafton Town",
                 "logo" : "https://sierrachurch.vercel.app/images/ChristEmbassy.png",
                 "contact" : "+233554623034 Whattsapp",
-                "location" : " Grafton"
+                "location" : "Grafton"
             },
             {
                 "id": 53,
@@ -572,18 +572,18 @@
             {
                 "id": 71,
                 "name": "Gateway Evangelical Ministries International",
-                "address": "Back of Hotel 5/10, Kissy",
+                "address": "Back of Hotel 5/10, Bai Bureh Road",
                 "logo": "https://sierrachurch.vercel.app/images/GatewayEvangelicalMinistries.jpg",
                 "contact" : "+23276618249",
-                "location" : "Kissy, Bai Bureh Road"
+                "location" : "Kissy"
             },
             {
                 "id": 72,
                 "name": "Christ For All Ministries Int'l",
-                "address": "30c Cockle, off Sir Samuel Lewis Road",
+                "address": "30c Cockle, off Sir Samuel Lewis Road, Aberdeen Road",
                 "logo": "https://sierrachurch.vercel.app/images/dove.jpg",
                 "contact" : "000 00 000 000",
-                "location" : "Aberdeen Road"
+                "location" : "Aberdeen"
             },
             {
                 "id": 73,
@@ -599,7 +599,7 @@
                 "address": "George Brook Dwazark Community",
                 "logo": "https://sierrachurch.vercel.app/images/AbideInChristEvangelistic.jpg",
                 "contact" : "+23276731319/+23234139911",
-                "location" : " Dwazark Community, New England"
+                "location" : "New England Ville"
             },
             {
                 "id": 75,
@@ -607,7 +607,7 @@
                 "address": "New Sella Spot, 31 Kingharman Road",
                 "logo": "https://sierrachurch.vercel.app/images/ChristReignsOutreach.jpg",
                 "contact" : "+23279215357",
-                "location" : "Kingharman Road"
+                "location" : "Jomo Kenyatta Road Area"
             },
             {
                 "id": 76,
@@ -623,7 +623,7 @@
                 "address": "Doherty Street,Off Murray Town",
                 "logo": "https://sierrachurch.vercel.app/images/ActionChapelInternational.jpg",
                 "contact" : "+23278233957",
-                "location" : "Wilkinson Road"
+                "location" : "Wilkinson Road Area"
             },
             {
                 "id": 78,
