@@ -283,13 +283,21 @@
             {
                 "id": 35,
                 "name": "Sanctuary Praise Cathedral",
-                "address": "2 Sawi Drive, Off kingharman Road",
+                "address": "2 Sawi Drive, Off kingharman Road.",
                 "logo" : "https://sierrachurch.vercel.app/images/SanctuaryPriase.jpg",
                 "contact" : "+23276242622",
                 "location" : "Brooksfield"
             },
             {
                 "id": 36,
+                "name": "Deeper Life Bible Church",
+                "address": "1 Wellesley Street, Back of the tank.",
+                "logo" : "https://sierrachurch.vercel.app/images/DeeperLifeBibleChurch.jpg",
+                "contact" : "+23276679385",
+                "location" : "Mount Aureol"
+            }
+            {
+                "id": 37,
                 "name": "Christ International Worship Center",
                 "address": "YWCA New Hall, Bus Stop",
                 "logo" : "https://sierrachurch.vercel.app/images/CIWC.jpg",
@@ -297,7 +305,7 @@
                 "location" : "Brookfields"
             },
             {
-                "id": 37,
+                "id": 38,
                 "name": "Bethel Temple Ministries International",
                 "address": "Opposite Rokel Sec. School",
                 "logo" : "https://sierrachurch.vercel.app/images/BethelTemple.jpg",
@@ -305,7 +313,7 @@
                 "location" : "Tower Hill"
             },
             {
-                "id": 38,
+                "id": 39,
                 "name": "Mt. Zion Fellowship Church",
                 "address": "Kono Compound Balcony, Solo-B Drive",
                 "logo" : "https://sierrachurch.vercel.app/images/MtZion.jpg",
@@ -313,12 +321,124 @@
                 "location" : "Goderich"
             },
             {
-                "id": 39,
+                "id": 40,
                 "name": "Wilberforce Baptist Church",
                 "address": "3 Main Motor Road",
                 "logo" : "https://sierrachurch.vercel.app/images/WilberforceBaptist.jpg",
                 "contact" : "+23276350283",
                 "location" : "Wilberforce"
+            },
+            {
+                "id": 41,
+                "name": "The Redeemed Christian Church of God HQ",
+                "address": "69 Sanders Street",
+                "logo" : "https://sierrachurch.vercel.app/images/RedeemedChristainChurch.jpg",
+                "contact" : "+23278911406",
+                "location" : "Sanders Street, St. John Area"
+            },
+            {
+                "id": 42,
+                "name": "The Redeemed Assemblies Church",
+                "address": "YMCA Kandeh Town",
+                "logo" : "https://sierrachurch.vercel.app/images/RedeemedAssembliesChurch.jpg",
+                "contact" : "+23278743194",
+                "location" : "Kandeh Town, Bo City"
+            },
+            {
+                "id": 42,
+                "name": "The Redeemed Christian Church of God",
+                "address": "Behind White House, close to Emergency Hospital",
+                "logo" : "https://sierrachurch.vercel.app/images/RedeemedChristainChurch.jpg",
+                "contact" : "+23278911406",
+                "location" : "Adokia, Goderich"
+            },
+            {
+                "id": 43,
+                "name": "Christ Embassy Sierra Leone",
+                "address": "5 Adeliade Street",
+                "logo" : "https://sierrachurch.vercel.app/images/ChristEmbassy.png",
+                "contact" : "+23278732356",
+                "location" : "St. John Area"
+            },
+            {
+                "id": 44,
+                "name": "National Penticostal Limba Church",
+                "address": "Fort Street",
+                "logo" : "https://sierrachurch.vercel.app/images/dove.jpg",
+                "contact" : "000 000 000 000",
+                "location" : "Off Circular Road"
+            },
+            {
+                "id": 45,
+                "name": "King Memorial UM Church",
+                "address": "Regent Street, Goderich Street.",
+                "logo" : "https://sierrachurch.vercel.app/images/dove.jpg",
+                "contact" : "000 000 000 000",
+                "location" : "Goderich Street"
+            },
+            {
+                "id": 46,
+                "name": "Wesley Methodist Church",
+                "address": "Lamina Sankoh Street",
+                "logo" : "https://sierrachurch.vercel.app/images/",
+                "contact" : "000 000 000 000",
+                "location" : "Siaka Stevens Street Area"
+            },
+            {
+                "id": 47,
+                "name": "Sacred Heart Catherdral/Cathedral of Freetown",
+                "address": "Siaka Stevens Street",
+                "logo" : "https://sierrachurch.vercel.app/images/dove.jpg",
+                "contact" : "000 000 000 000",
+                "location" : "Siaka Stevens Street"
+            },
+            {
+                "id": 48,
+                "name": "Buxton Memorial Methodist Church",
+                "address": "Charles Street",
+                "logo" : "https://sierrachurch.vercel.app/images/BuxtonMethodistChurch.jpg",
+                "contact" : "000 000 000 000",
+                "location" : "Charles Street"
+            },
+            {
+                "id": 54,
+                "name": "Christ Embassy Sierra Leone",
+                "address": "26 Prince Williams Street",
+                "logo" : "https://sierrachurch.vercel.app/images/ChristEmbassy.png",
+                "contact" : "+23278464847",
+                "location" : "Bo City"
+            },
+            {
+                "id": 51,
+                "name": "Christ Embassy Sierra Leone",
+                "address": "All Purpose Hall, Beside Leone Lodge",
+                "logo" : "https://sierrachurch.vercel.app/images/ChristEmbassy.png",
+                "contact" : "+23276424577",
+                "location" : "Lumley Beach Road"
+            },
+            {
+                "id": 52,
+                "name": "Christ Embassy Sierra Leone",
+                "address": "Congo Cross",
+                "logo" : "https://sierrachurch.vercel.app/images/ChristEmbassy.png",
+                "contact" : "+23276114941",
+                "location" : "Congo Cross"
+            },
+            {
+                "id": 53,
+                "name": "Christ Embassy Sierra Leone",
+                "address": "Grafton Town",
+                "logo" : "https://sierrachurch.vercel.app/images/ChristEmbassy.png",
+                "contact" : "+233554623034 Whattsapp",
+                "location" : " Grafton"
+            },
+            {
+                "id": 50,
+                "name": "Deeper Life Bible Church",
+                "address": "Nduvuibu Branch",
+                "logo" : "https://sierrachurch.vercel.app/images/DeeperLifeBibleChurch.jpg",
+                "contact" : "+23276659549",
+                "location" : "Nduvuibu Branch Bo City"
             }
     ]
 }
