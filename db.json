@@ -14,7 +14,7 @@
             "address": "6 Walmsley Lane, Off Berry Street",
             "logo" : "https://yt3.googleusercontent.com/ytc/AOPolaTHz7AnqfwNlBj6e145ECNGqeMLsEGmwOVtfNjX=s900-c-k-c0x00ffffff-no-rj",
             "contact" : "000 000 000 000",
-            "location" : "Freetown"
+            "location" : "Model Area"
         },
         {
             "id": 3,
@@ -22,7 +22,7 @@
             "address": "Miracle City, Ross Road,",
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJNRs6t03Q6n9_KaXyWlt3yEqDCDFHMoKdiK9XcSFgfMCfZCMztuddT5TKN2P2n86FT60&usqp=CAU",
             "contact" : "+23276668616",
-            "location" : "Up Gun, Cline Town"
+            "location" : "Cline Town"
         },
         {
             "id": 4,
@@ -30,7 +30,7 @@
             "address": "5 & 7 Victoria Street",
             "logo" : "https://sierrachurch.vercel.app/images/LivingWordOfFaith.jpg",
             "contact" : "+23230900007",
-            "location" : "St. John"
+            "location" : "St. John Area"
         },
         {
             "id": 5,
@@ -155,10 +155,10 @@
         {
             "id": 18,
             "name": "New Harvest Ministries",
-            "address": "Railway Quarters Off Prince Williams Street",
+            "address": "Railway Quarters Off Prince Williams Street, Kandeh Town ",
             "logo" : "https://sierrachurch.vercel.app/images/NewHarvest.jpg",
             "contact" : "+23278908012",
-            "location" : "Kandeh Town Bo City"
+            "location" : "Bo City"
         },
         {
             "id": 20,
@@ -166,7 +166,7 @@
             "address": "8 Heddle Street, off Campbell Street",
             "logo" : "https://sierrachurch.vercel.app/images/GreaterEvangelism.jpg",
             "contact" : "+23299485553",
-            "location" : "Campbell Street"
+            "location" : "Campbell Street Area"
         },
         {
             "id": 21,
@@ -174,23 +174,23 @@
             "address": "30A kingharman Road",
             "logo" : "https://scontent.ffna3-1.fna.fbcdn.net/v/t1.6435-9/76759963_103418251131011_6261441548764839936_n.png?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Nowfc_xaqQcAX-cmUpC&_nc_ht=scontent.ffna3-1.fna&oh=00_AfAFzsOYCoxqoYj0uJh4ZQa6STh6wfqr_apJ-Y13Nz-fNw&oe=64FB9769",
             "contact" : "+23277823233",
-            "location" : "kingharman Road"
+            "location" : "Jomo Kenyatta Road Area"
         },
         {
             "id": 22,
             "name": " Catch the Anointing Church / LightHouse Chapel International",
-            "address": "Ogoo Farm",
+            "address": "Ogoo Farm, Peninsular",
             "logo" : "https://sierrachurch.vercel.app/images/CatchTheAnionting.jpg",
             "contact" : "+23276549937",
-            "location" : " Peninsular, Goderich"
+            "location" : "Goderich"
         },
         {
             "id": 23,
             "name": "Flaming Evangelical Ministries Int.",
-            "address": "Murray Town",
+            "address": "Murray Town Branch",
             "logo": "https://sierrachurch.vercel.app/images/flaming.jpg",
             "contact" : "+23277643784",
-            "location" : "Murray Town Branch"
+            "location" : "Murray Town"
         },
         {
             "id": 24,
@@ -214,7 +214,7 @@
             "address": "69 Sanders Street",
             "logo" : "https://sierrachurch.vercel.app/images/RedeemedChristainChurch.jpg",
             "contact" : "+23278911406",
-            "location" : "Sanders Street, St. John Area"
+            "location" : "St. John Area"
         },
         {
             "id": 27,
@@ -254,7 +254,7 @@
             "address": "Gloucester (Sorie Town By The Transformer)",
             "logo" : "https://sierrachurch.vercel.app/images/MountOfTransfiguration.jpg",
             "contact" : "+23278257068",
-            "location" : "Gloucester Village"
+            "location" : "Gloucester"
         },
         {
             "id": 32,
@@ -262,7 +262,7 @@
             "address": "1 Wisdom Drive, Sorie Town",
             "logo" : "https://sierrachurch.vercel.app/images/MountainOfGod.jpg",
             "contact" : "+23278257068",
-            "location" : "Gloucester Village"
+            "location" : "Gloucester"
         },
         {
             "id": 33,
@@ -270,7 +270,7 @@
             "address": "80 Off Pratt Street, New England ville",
             "logo" : "https://sierrachurch.vercel.app/images/ThusSaithTheLord.jpg",
             "contact" : "+23279017130",
-            "location" : "New England ville"
+            "location" : "New England Ville"
             },
             {
                 "id": 35,
@@ -278,7 +278,7 @@
                 "address": "2 Sawi Drive, Off kingharman Road.",
                 "logo" : "https://sierrachurch.vercel.app/images/SanctuaryPriase.jpg",
                 "contact" : "+23276242622",
-                "location" : "Brooksfield"
+                "location" : "Brooksfields"
             },
             {
                 "id": 36,
@@ -335,15 +335,15 @@
                 "address": "YMCA Kandeh Town",
                 "logo" : "https://sierrachurch.vercel.app/images/RedeemedAssembliesChurch.jpg",
                 "contact" : "+23278743194",
-                "location" : "Kandeh Town, Bo City"
+                "location" : "Bo City"
             },
             {
                 "id": 42,
                 "name": "The Redeemed Christian Church of God",
-                "address": "Behind White House, close to Emergency Hospital",
+                "address": "Behind White House, close to Emergency Hospital, Adokia",
                 "logo" : "https://sierrachurch.vercel.app/images/RedeemedChristainChurch.jpg",
                 "contact" : "+23278911406",
-                "location" : "Adokia, Goderich"
+                "location" : "Goderich"
             },
             {
                 "id": 43,
@@ -356,10 +356,10 @@
             {
                 "id": 44,
                 "name": "National Penticostal Limba Church",
-                "address": "Fort Street",
+                "address": "Fort Street, Off Circular Road",
                 "logo" : "https://sierrachurch.vercel.app/images/dove.jpg",
                 "contact" : "000 000 000 000",
-                "location" : "Off Circular Road"
+                "location" : "Circular Road Area"
             },
             {
                 "id": 45,
@@ -367,7 +367,7 @@
                 "address": "Regent Street, Goderich Street.",
                 "logo" : "https://sierrachurch.vercel.app/images/dove.jpg",
                 "contact" : "000 000 000 000",
-                "location" : "Goderich Street"
+                "location" : "Central Area"
             },
             {
                 "id": 46,
@@ -383,7 +383,7 @@
                 "address": "Siaka Stevens Street",
                 "logo" : "https://sierrachurch.vercel.app/images/dove.jpg",
                 "contact" : "000 000 000 000",
-                "location" : "Siaka Stevens Street"
+                "location" : "Siaka Stevens Street Area"
             },
             {
                 "id": 48,
@@ -391,7 +391,7 @@
                 "address": "Charles Street",
                 "logo" : "https://sierrachurch.vercel.app/images/BuxtonMethodistChurch.jpg",
                 "contact" : "000 000 000 000",
-                "location" : "Charles Street"
+                "location" : "Campbell Street Area"
             },
             {
                 "id": 49,
@@ -431,7 +431,7 @@
                 "address": "Nduvuibu Branch",
                 "logo" : "https://sierrachurch.vercel.app/images/DeeperLifeBibleChurch.jpg",
                 "contact" : "000 000 000 000",
-                "location" : "Nduvuibu Branch Bo City"
+                "location" : "Bo City"
             },
             {
                 "id": 54,
@@ -460,10 +460,10 @@
             {
                 "id": 57,
                 "name": "Dominion City",
-                "address": "38 Wilkinson Road",
+                "address": "38 Wilkinson Road, Lumley Road",
                 "logo" : "https://sierrachurch.vercel.app/images/DominionCity.jpg",
                 "contact" : "+23230147263",
-                "location" : "Lumely Road"
+                "location" : "Lumely"
             },
             {
                 "id": 58,
@@ -471,7 +471,7 @@
                 "address": "6 Pratt Lane, By R.E.C School Field",
                 "logo" : "https://sierrachurch.vercel.app/images/TheVineChristianFellowshipMinistry.jpg",
                 "contact" : "+23276742829",
-                "location" : "Jui, Kossoh Town"
+                "location" : "Kossoh Town"
             },
             {
                 "id": 59,
@@ -484,10 +484,10 @@
             {
                 "id": 60,
                 "name": "National Pentecostal Church",
-                "address": "Regent Road",
+                "address": "Regent Road, Beach Road Lumley",
                 "logo" : "https://sierrachurch.vercel.app/images/NationalPentecostalChurch.jpg",
                 "contact" : "+23231086708",
-                "location" : "Beach Road Lumley"
+                "location" : "Lumley"
             },
             {
                 "id": 61,
@@ -695,7 +695,7 @@
                 "address": "4 Liverpool Street",
                 "logo": "https://sierrachurch.vercel.app/images/GloriousChurch.jpg",
                 "contact" : "+23279625676/+23233497861",
-                "location" : "Regent Village"
+                "location" : "Regent"
             },
             {
                 "id": 87,
