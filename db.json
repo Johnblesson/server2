@@ -34,11 +34,11 @@
         },
         {
             "id": 5,
-            "name": "Revival Power Ministries Fire Center",
-            "address": "241 Regent Grafton Highway",
-            "logo" : "https://sierrachurch.vercel.app/images/RevivalPowerMin.jpg",
-            "contact" : "+23276875229",
-            "location" : "Grafton"
+            "name": "Harvest Intercontinental Cathedral H/Q",
+            "address": "156 Circular Road",
+            "logo" : "https://sierrachurch.vercel.app/images/HarvestInter.png",
+            "contact" : "+23276622073",
+            "location" : "Circular Road Area"
         },
         {
             "id": 6,
@@ -50,19 +50,19 @@
         },
         {
             "id": 7,
-            "name": "ZOE International Worship Center",
-            "address": "24 Bass Street",
-            "logo" : "https://scontent.ffna3-1.fna.fbcdn.net/v/t1.6435-9/173672203_101821682048686_8776327298511878739_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=174925&_nc_ohc=E80jJYj_f5gAX8vsWcM&_nc_ht=scontent.ffna3-1.fna&oh=00_AfDs_-9Hanv4Z40-_OMeah7435ebHoM6Yl1TZIoISDqZiQ&oe=64F8959A",
-            "contact" : "+23278223576",
-            "location" : "Brookfields"
+            "name": "Jesus Is Lord Ministries",
+            "address": "Tower Hill",
+            "logo" : "https://sierrachurch.vercel.app/images/dove.jpg",
+            "contact" : "+23276773431",
+            "location" : "Tower Hill"
         },
         {
             "id": 8,
-            "name": "Royal Embassy International",
-            "address": "Lord Street, Bottom Mango",
-            "logo" : "./images/royalembassy.jpg",
-            "contact" : "+23272815536",
-            "location" : "Waterloo"
+            "name": "Shalom Ministries SL H/Q",
+            "address": "City of Shalom, Mount Gerizim",
+            "logo" : "./images/dove.jpg",
+            "contact" : "000 000 000 000",
+            "location" : "Regent"
         },
         {
             "id": 9,
@@ -82,11 +82,11 @@
         },
         {
             "id": 11,
-            "name": "Apostolic Fire Ground Ministries",
-            "address": "2 Wisdom Drive, Back of Old School",
-            "logo" : "./images/Afgm.png",
-            "contact" : "+23231042504",
-            "location" : "Hill Station"
+            "name": "Battle AXE Ministry International HQ",
+            "address": "25 Edward Street",
+            "logo" : "https://sierrachurch.vercel.app/images/BattleAxe.jpg",
+            "contact" : "+23299721013",
+            "location" : "St. John Area"
         },
         {
             "id": 12,
@@ -114,27 +114,27 @@
         },
         {
             "id": 15,
-            "name": "Shalom Ministries SL H/Q",
-            "address": "City of Shalom, Mount Gerizim",
-            "logo" : "./images/dove.jpg",
-            "contact" : "000 000 000 000",
-            "location" : "Regent"
+            "name": "Royal Embassy International",
+            "address": "Lord Street, Bottom Mango",
+            "logo" : "./images/royalembassy.jpg",
+            "contact" : "+23272815536",
+            "location" : "Waterloo"
         },
         {
             "id": 16,
-            "name": "Harvest Intercontinental Cathedral H/Q",
-            "address": "156 Circular Road",
-            "logo" : "https://sierrachurch.vercel.app/images/HarvestInter.png",
-            "contact" : "+23276622073",
-            "location" : "Circular Road Area"
+            "name": "Revival Power Ministries Fire Center",
+            "address": "241 Regent Grafton Highway",
+            "logo" : "https://sierrachurch.vercel.app/images/RevivalPowerMin.jpg",
+            "contact" : "+23276875229",
+            "location" : "Grafton"
         },
         {
             "id": 34,
-            "name": "Battle AXE Ministry International HQ",
-            "address": "25 Edward Street",
-            "logo" : "https://sierrachurch.vercel.app/images/BattleAxe.jpg",
-            "contact" : "+23299721013",
-            "location" : "St. John Area"
+            "name": "Apostolic Fire Ground Ministries",
+            "address": "2 Wisdom Drive, Back of Old School",
+            "logo" : "./images/Afgm.png",
+            "contact" : "+23231042504",
+            "location" : "Hill Station"
         },
         {
             "id": 17,
@@ -147,7 +147,7 @@
         {
             "id": 19,
             "name": "Faith Evangelical Church",
-            "address": "9 Ross Road",
+            "address": "17 Ross Road",
             "logo" : "./images/dove.jpg",
             "contact" : "000 000 000 000",
             "location" : "Cline Town"
@@ -178,7 +178,7 @@
         },
         {
             "id": 22,
-            "name": " Catch the Anointing Church / LightHouse Chapel International",
+            "name": " Catch the Anointing Church / LightHouse Chapel Int'l",
             "address": "Ogoo Farm, Peninsular",
             "logo" : "https://sierrachurch.vercel.app/images/CatchTheAnionting.jpg",
             "contact" : "+23276549937",
@@ -202,11 +202,11 @@
         },
         {
             "id": 25,
-            "name": "Jesus Is Lord Ministries",
-            "address": "Tower Hill",
-            "logo" : "https://scontent.ffna3-1.fna.fbcdn.net/v/t39.30808-6/327240370_7022400194442571_1403436857742838709_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=300f58&_nc_ohc=wbBEBaKtV9UAX92JTfk&_nc_ht=scontent.ffna3-1.fna&oh=00_AfBVRckTs7sQcNH8SgYgqiHtq_rkD4wbQm9Xo27cnwAKOA&oe=64D8F81B",
-            "contact" : "+23276773431",
-            "location" : "Tower Hill"
+            "name": "ZOE International Worship Center",
+            "address": "24 Bass Street",
+            "logo" : "https://scontent.ffna3-1.fna.fbcdn.net/v/t1.6435-9/173672203_101821682048686_8776327298511878739_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=174925&_nc_ohc=E80jJYj_f5gAX8vsWcM&_nc_ht=scontent.ffna3-1.fna&oh=00_AfDs_-9Hanv4Z40-_OMeah7435ebHoM6Yl1TZIoISDqZiQ&oe=64F8959A",
+            "contact" : "+23278223576",
+            "location" : "Brookfields"
         },
         {
             "id": 26,
@@ -273,36 +273,36 @@
             "location" : "New England Ville"
             },
             {
-                "id": 35,
-                "name": "Sanctuary Praise Cathedral",
-                "address": "2 Sawi Drive, Off kingharman Road.",
-                "logo" : "https://sierrachurch.vercel.app/images/SanctuaryPriase.jpg",
-                "contact" : "+23276242622",
-                "location" : "Brookfields"
+            "id": 35,
+            "name": "Sanctuary Praise Cathedral",
+            "address": "2 Sawi Drive, Off kingharman Road.",
+            "logo" : "https://sierrachurch.vercel.app/images/SanctuaryPriase.jpg",
+            "contact" : "+23276242622",
+            "location" : "Brookfields"
             },
             {
-                "id": 36,
-                "name": "Deeper Life Bible Church",
-                "address": "1 Wellesley Street, Back of the tank.",
-                "logo" : "https://sierrachurch.vercel.app/images/DeeperLifeBibleChurch.jpg",
-                "contact" : "+23276679385",
-                "location" : "Mount Aureol"
+            "id": 36,
+            "name": "Deeper Life Bible Church",
+            "address": "1 Wellesley Street, Back of the tank.",
+            "logo" : "https://sierrachurch.vercel.app/images/DeeperLifeBibleChurch.jpg",
+            "contact" : "+23276679385",
+            "location" : "Mount Aureol"
             },
             {
-                "id": 37,
-                "name": "Christ International Worship Center",
-                "address": "YWCA New Hall, Bus Stop",
-                "logo" : "https://sierrachurch.vercel.app/images/CIWC.jpg",
-                "contact" : "+23234036070",
-                "location" : "Brookfields"
+            "id": 37,
+            "name": "Christ International Worship Center",
+            "address": "YWCA New Hall, Bus Stop",
+            "logo" : "https://sierrachurch.vercel.app/images/CIWC.jpg",
+            "contact" : "+23234036070",
+            "location" : "Brookfields"
             },
             {
-                "id": 38,
-                "name": "Bethel Temple Ministries International",
-                "address": "Opposite Rokel Sec. School",
-                "logo" : "https://sierrachurch.vercel.app/images/BethelTemple.jpg",
-                "contact" : "+23276046960",
-                "location" : "Tower Hill"
+            "id": 38,
+            "name": "Bethel Temple Ministries International",
+            "address": "Opposite Rokel Sec. School",
+            "logo" : "https://sierrachurch.vercel.app/images/BethelTemple.jpg",
+            "contact" : "+23276046960",
+            "location" : "Tower Hill"
             },
             {
                 "id": 39,
