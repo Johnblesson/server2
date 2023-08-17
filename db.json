@@ -728,6 +728,110 @@
                 "logo" : "https://sierrachurch.vercel.app/images/BattleAxe.jpg",
                 "contact" : "+23288242924",
                 "location" : "Aberdeen"
+            },
+            {
+                "id": 91,
+                "name": "Harvest Intercontinental Church",
+                "address": "Coconut Farm, Blackhall Road",
+                "logo" : "https://sierrachurch.vercel.app/images/HarvestInter.png",
+                "contact" : "+23231228427",
+                "location" : "Blackhall Road"
+            },
+            {
+                "id": 92,
+                "name": "Harvest Intercontinental Church",
+                "address": "2 Back Street, Kissy",
+                "logo" : "https://sierrachurch.vercel.app/images/HarvestInter.png",
+                "contact" : "000 00 000 000",
+                "location" : "Kissy"
+            },
+            {
+                "id": 93,
+                "name": "Harvest Intercontinental Church",
+                "address": "Campbell Street, Wellington",
+                "logo" : "https://sierrachurch.vercel.app/images/HarvestInter.png",
+                "contact" : "+23278426741/+23231482411",
+                "location" : "Wellington"
+            },
+            {
+                "id": 94,
+                "name": "Harvest Intercontinental Church",
+                "address": "Bangura Street",
+                "logo" : "https://sierrachurch.vercel.app/images/HarvestInter.png",
+                "contact" : "+23276662219",
+                "location" : "Calaba Town"
+            },
+            {
+                "id": 95,
+                "name": "Harvest Intercontinental Church",
+                "address": "Rokel Park Light",
+                "logo" : "https://sierrachurch.vercel.app/images/HarvestInter.png",
+                "contact" : "+23280927511",
+                "location" : "Rokel"
+            },
+            {
+                "id": 96,
+                "name": "Harvest Intercontinental Church",
+                "address": "Rokel Condolor",
+                "logo" : "https://sierrachurch.vercel.app/images/HarvestInter.png",
+                "contact" : "+23278708354/+23288745070",
+                "location" : "Rokel"
+            },
+            {
+                "id": 97,
+                "name": "Harvest Intercontinental Church",
+                "address": "Yams Farm",
+                "logo" : "https://sierrachurch.vercel.app/images/HarvestInter.png",
+                "contact" : "+23232800873/+23233077106",
+                "location" : "Yams Farm"
+            },
+            {
+                "id": 98,
+                "name": "Harvest Intercontinental Church",
+                "address": "Malama, Goderich",
+                "logo" : "https://sierrachurch.vercel.app/images/HarvestInter.png",
+                "contact" : "+23276559537",
+                "location" : "Goderich"
+            },
+            {
+                "id": 99,
+                "name": "Harvest Intercontinental Church",
+                "address": "Number 9, Lumley Road",
+                "logo" : "https://sierrachurch.vercel.app/images/HarvestInter.png",
+                "contact" : "+23277989801",
+                "location" : "Wilberforce"
+            },
+            {
+                "id": 100,
+                "name": "Harvest Intercontinental Church",
+                "address": "Lunsar",
+                "logo" : "https://sierrachurch.vercel.app/images/HarvestInter.png",
+                "contact" : "+23277586409",
+                "location" : "Lunsar"
+            },
+            {
+                "id": 101,
+                "name": "Harvest Intercontinental Church",
+                "address": "Waterloo Police Post",
+                "logo" : "https://sierrachurch.vercel.app/images/HarvestInter.png",
+                "contact" : "+23276492699/+23288593350",
+                "location" : "Waterloo"
+            },
+            {
+                "id": 102,
+                "name": "Harvest Intercontinental Church",
+                "address": "Bo City",
+                "logo" : "https://sierrachurch.vercel.app/images/HarvestInter.png",
+                "contact" : "+23277855240",
+                "location" : "Bo City"
+            },
+            {
+                "id": 103,
+                "name": "Harvest Intercontinental Church",
+                "address": "Lungi Rotifunk",
+                "logo" : "https://sierrachurch.vercel.app/images/HarvestInter.png",
+                "contact" : "+23276816595",
+                "location" : "Lungi"
             }
     ]
 }
