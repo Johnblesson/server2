@@ -895,6 +895,14 @@
                 "logo" : "https://sierrachurch.vercel.app/images/ChristIsLord.jpg",
                 "contact" : "+23276649865",
                 "location" : "New England Ville"
+            },
+            {
+                "id": 112,
+                "name": "Holy Spirit Evangelistic Ministries",
+                "address": "Femi Tuner",
+                "logo" : "https://sierrachurch.vercel.app/images/HolySpiritEvangelistic.jpg",
+                "contact" : "+23277425168",
+                "location" : "Goderich"
             }
     ]
 }
