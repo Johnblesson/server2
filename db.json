@@ -735,7 +735,7 @@
                 "address": "Coconut Farm, Blackhall Road",
                 "logo" : "https://sierrachurch.vercel.app/images/HarvestInter.png",
                 "contact" : "+23231228427",
-                "location" : "Blackhall Road"
+                "location" : "BlackHall Road"
             },
             {
                 "id": 92,
@@ -832,6 +832,14 @@
                 "logo" : "https://sierrachurch.vercel.app/images/HarvestInter.png",
                 "contact" : "+23276816595",
                 "location" : "Lungi"
+            },
+            {
+                "id": 104,
+                "name": "Loko Baptist Church-BCSL",
+                "address": "102 Circular Road, by Parade Field",
+                "logo" : "https://sierrachurch.vercel.app/images/BaptistConventionSierraLeone.jpg",
+                "contact" : "+23277547002",
+                "location" : "Circular Road Area"
             }
     ]
 }
