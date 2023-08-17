@@ -10,7 +10,7 @@
         },
         {
             "id": 2,
-            "name": "Faith Healing Bible Church",
+            "name": "Faith Healing Bible Church HQ",
             "address": "6 Walmsley Lane, Off Berry Street",
             "logo" : "https://yt3.googleusercontent.com/ytc/AOPolaTHz7AnqfwNlBj6e145ECNGqeMLsEGmwOVtfNjX=s900-c-k-c0x00ffffff-no-rj",
             "contact" : "+23273433285",
@@ -26,7 +26,7 @@
         },
         {
             "id": 4,
-            "name": "Living Word of Faith Outreach Ministries Int.",
+            "name": "Living Word of Faith Outreach Ministries Int. HQ",
             "address": "5 & 7 Victoria Street",
             "logo" : "https://sierrachurch.vercel.app/images/LivingWordOfFaith.jpg",
             "contact" : "+23230900007",
@@ -42,7 +42,7 @@
         },
         {
             "id": 6,
-            "name": "Flaming Evangelical Ministries Int.",
+            "name": "Flaming Evangelical Ministries Int'l HQ",
             "address": "29e Ascension Town Road",
             "logo": "https://sierrachurch.vercel.app/images/flaming.jpg",
             "contact" : "+23277041550",
@@ -50,7 +50,7 @@
         },
         {
             "id": 7,
-            "name": "Jesus Is Lord Ministries",
+            "name": "Jesus Is Lord Ministries HQ",
             "address": "Tower Hill",
             "logo" : "https://sierrachurch.vercel.app/images/dove.jpg",
             "contact" : "+23276773431",
