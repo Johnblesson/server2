@@ -328,7 +328,6 @@
                 "contact" : "+23276292267",
                 "location" : "Sumaila Town"
             },
-           
             {
                 "id": 42,
                 "name": "The Redeemed Assemblies Church",
@@ -685,7 +684,7 @@
                 "id": 85,
                 "name": "The Door Christian Fellowship Church",
                 "address": "Ferry Junction, Kissy",
-                "logo": "https://sierrachurch.vercel.app/images/dove.jpg",
+                "logo": "https://sierrachurch.vercel.app/images/TheDoor.jpg",
                 "contact" : "+23277611778",
                 "location" : "Kissy"
             },
@@ -840,6 +839,62 @@
                 "logo" : "https://sierrachurch.vercel.app/images/BaptistConventionSierraLeone.jpg",
                 "contact" : "+23277547002",
                 "location" : "Circular Road Area"
+            },
+            {
+                "id": 105,
+                "name": "Calvary Army Of Fire and Miracle Ministry",
+                "address": "3 Emerson Drive, Adonkia",
+                "logo" : "https://sierrachurch.vercel.app/images/CalveryArmy.jpg",
+                "contact" : "+23288950854",
+                "location" : "Goderich"
+            },
+            {
+                "id": 106,
+                "name": "Glorious Christian Church",
+                "address": "70 Adelaide Street",
+                "logo" : "https://sierrachurch.vercel.app/images/GloriousChristianChurch.jpg",
+                "contact" : "+23276606028",
+                "location" : "St. John Area"
+            },
+            {
+                "id": 107,
+                "name": "Kingdom Ministries International Church",
+                "address": "14c Marty Lane",
+                "logo" : "https://sierrachurch.vercel.app/images/KingdomMinistries.jpg",
+                "contact" : "+23276334633",
+                "location" : "Tengbeh Town"
+            },
+            {
+                "id": 108,
+                "name": "House of Grace Church international",
+                "address": "8 Old signal Hill Road",
+                "logo" : "https://sierrachurch.vercel.app/images/HouseofGraceChurch.jpg",
+                "contact" : "+23278294776",
+                "location" : "Congo Cross"
+            },
+            {
+                "id": 109,
+                "name": "Life Church Ministries International",
+                "address": "1 Jerusalem City, Metchem Goderich",
+                "logo" : "https://sierrachurch.vercel.app/images/LifeChurchMinistries.jpg",
+                "contact" : "+23276848497",
+                "location" : "Goderich"
+            },
+            {
+                "id": 110,
+                "name": "Evangel Assembly of God Church",
+                "address": "13 Frazer Street Murry Town",
+                "logo" : "https://sierrachurch.vercel.app/images/EvangelAssembly.jpg",
+                "contact" : "",
+                "location" : "Murray Town"
+            },
+            {
+                "id": 111,
+                "name": "Christ is Lord Evangelical Ministry",
+                "address": "32 Pratt Street, New England",
+                "logo" : "https://sierrachurch.vercel.app/images/ChristIsLord.jpg",
+                "contact" : "+23276649865",
+                "location" : "New England Ville"
             }
     ]
 }
