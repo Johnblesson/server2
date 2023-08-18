@@ -365,7 +365,7 @@
                 "name": "King Memorial UM Church",
                 "address": "Regent Street, Goderich Street.",
                 "logo" : "https://sierrachurch.vercel.app/images/dove.jpg",
-                "contact" : "000 000 000 000",
+                "contact" : "+23276635309",
                 "location" : "Central Area"
             },
             {
@@ -1015,6 +1015,30 @@
                 "logo" : "https://sierrachurch.vercel.app/images/ForwardInFaith.jpg",
                 "contact" : "+23279146607",
                 "location" : "Kossoh Town"
+            },
+            {
+                "id": 127,
+                "name": "Fountain of Abundant Life Ministries Int'l",
+                "address": "Bonga Town Community Center off Wilkinson Road",
+                "logo" : "https://sierrachurch.vercel.app/images/FountainOfAbundantLife.jpg",
+                "contact" : "+23278794552/+23231095878",
+                "location" : "Wilkinson Road Area"
+            },
+            {
+                "id": 128,
+                "name": "Salvation Army Prayer & Evangelistic Ministry Int'l",
+                "address": "Sheriff Drive, Kanningo Bridge, Malama",
+                "logo" : "https://sierrachurch.vercel.app/images/SalvationArmyPrayer.jpg",
+                "contact" : "+23231165615",
+                "location" : "Lumley"
+            },
+            {
+                "id": 129,
+                "name": "New Harvest Global Ministries",
+                "address": "107 Wilkinson Road, Off John Michael",
+                "logo" : "https://sierrachurch.vercel.app/images/NewHarvest.jpg",
+                "contact" : "+23231165615",
+                "location" : "Wilkinson Road Area"
             }
     ]
 }
