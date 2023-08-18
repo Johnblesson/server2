@@ -903,6 +903,30 @@
                 "logo" : "https://sierrachurch.vercel.app/images/HolySpiritEvangelistic.jpg",
                 "contact" : "+23277425168",
                 "location" : "Goderich"
+            },
+            {
+                "id": 113,
+                "name": "Calvary Covenant Congregation",
+                "address": "Sun Valley (2nd Field) Off Hill Court Road (by Garage)",
+                "logo" : "https://sierrachurch.vercel.app/images/CalvaryCovenantCongregation.jpg",
+                "contact" : "+23279117247",
+                "location" : "Hill Court"
+            },
+            {
+                "id": 114,
+                "name": "Mountain of Fire and Miracles Ministries",
+                "address": "",
+                "logo" : "https://sierrachurch.vercel.app/images/MountainofFire.jpg",
+                "contact" : "+23275",
+                "location" : "Brookfields"
+            },
+            {
+                "id": 115,
+                "name": "Mountain of Grace Ministries",
+                "address": "Momoh Street, Mendewa",
+                "logo" : "https://sierrachurch.vercel.app/images/MountainofGrace.jpg",
+                "contact" : "+23278563433",
+                "location" : "Bo City"
             }
     ]
 }
