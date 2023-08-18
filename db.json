@@ -66,6 +66,14 @@
         },
         {
             "id": 9,
+            "name": "Winners Chapel International",
+            "address": "9 Pwd Quarters",
+            "logo" : "https://sierrachurch.vercel.app/images/Winners.png",
+            "contact" : "+23299828559",
+            "location" : "Pademba Road Area"
+        },
+        {
+            "id": 10,
             "name": "God's End Time Prophetic Ministries Int'l",
             "address": "1 Johnson drive, Ojuku junction",
             "logo" : "https://scontent.ffna3-1.fna.fbcdn.net/v/t1.6435-9/99136708_1142773256072396_7317126892165791744_n.jpg?stp=dst-jpg_p640x640&_nc_cat=103&ccb=1-7&_nc_sid=e3f864&_nc_ohc=jdHOFaFJOXEAX9TJdEY&_nc_ht=scontent.ffna3-1.fna&oh=00_AfAI6Gmc0_vfXKcU02jU7sOtgDUCFNQrDZtNXcfr29izsA&oe=64F8BF61",
@@ -73,7 +81,7 @@
             "location" : "Allen Town"
         },
         {
-            "id": 10,
+            "id": 11,
             "name": "Jesus' Glory Int'l Ministries",
             "address": "2 Percy Street, Off Charles Street",
             "logo" : "https://sierrachurch.vercel.app/images/dove.jpg",
@@ -81,7 +89,7 @@
             "location" : "Pademba Road Area"
         },
         {
-            "id": 11,
+            "id": 12,
             "name": "Battle AXE Ministry International HQ",
             "address": "25 Edward Street",
             "logo" : "https://sierrachurch.vercel.app/images/BattleAxe.jpg",
@@ -89,7 +97,7 @@
             "location" : "St. John Area"
         },
         {
-            "id": 12,
+            "id": 13,
             "name": "Kingdom Gospel Mission Inc",
             "address": "14 Old Railway Line",
             "logo" : "https://sierrachurch.vercel.app/images/KGM.jpg",
@@ -97,20 +105,12 @@
             "location" : "Rokupa"
         },
         {
-            "id": 13,
+            "id": 14,
             "name": "The Word Global Ministries",
             "address": "38 Oniel Street, Back of Albert Academy",
             "logo" : "https://sierrachurch.vercel.app/images/WordGlobal.jpg",
             "contact" : "+23277595171",
             "location" : "Sorie Town"
-        },
-        {
-            "id": 14,
-            "name": "Winners Chapel International",
-            "address": "9 Pwd Quarters",
-            "logo" : "https://sierrachurch.vercel.app/images/Winners.png",
-            "contact" : "+23299828559",
-            "location" : "Pademba Road Area"
         },
         {
             "id": 15,
@@ -129,15 +129,15 @@
             "location" : "Grafton"
         },
         {
-            "id": 34,
-            "name": "Apostolic Fire Ground Ministries",
-            "address": "2 Wisdom Drive, Back of Old School",
-            "logo" : "./images/Afgm.png",
-            "contact" : "+23231042504",
-            "location" : "Hill Station"
-        },
-        {
             "id": 17,
+            "name": "Deeper Life Bible Church",
+            "address": "1 Wellesley Street, Back of the tank.",
+            "logo" : "https://sierrachurch.vercel.app/images/DeeperLifeBibleChurch.jpg",
+            "contact" : "+23276679385",
+            "location" : "Mount Aureol"
+            },
+        {
+            "id": 18,
             "name": "Harvest Intercontinental Church",
             "address": "Ross Road",
             "logo" : "https://sierrachurch.vercel.app/images/HarvestInter.png",
@@ -151,14 +151,6 @@
             "logo" : "./images/dove.jpg",
             "contact" : "000 000 000 000",
             "location" : "Cline Town"
-        },
-        {
-            "id": 18,
-            "name": "New Harvest Ministries",
-            "address": "Railway Quarters Off Prince Williams Street, Kandeh Town ",
-            "logo" : "https://sierrachurch.vercel.app/images/NewHarvest.jpg",
-            "contact" : "+23278908012",
-            "location" : "Bo City"
         },
         {
             "id": 20,
@@ -250,6 +242,14 @@
         },
         {
             "id": 31,
+            "name": "Sanctuary Praise Cathedral",
+            "address": "2 Sawi Drive, Off kingharman Road.",
+            "logo" : "https://sierrachurch.vercel.app/images/SanctuaryPriase.jpg",
+            "contact" : "+23276242622",
+            "location" : "Brookfields"
+            },
+        {
+            "id": 32,
             "name": "Mount of Transfiguration Int'l Ministry",
             "address": "Gloucester (Sorie Town By The Transformer)",
             "logo" : "https://sierrachurch.vercel.app/images/MountOfTransfiguration.jpg",
@@ -257,52 +257,53 @@
             "location" : "Gloucester"
         },
         {
-            "id": 32,
-            "name": "Mountain of God Evangelical Ministries",
-            "address": "1 Wisdom Drive, Sorie Town",
-            "logo" : "https://sierrachurch.vercel.app/images/MountainOfGod.jpg",
-            "contact" : "+23278257068",
-            "location" : "Gloucester"
+                "id": 33,
+                "name": "Mountain of God Evangelical Ministries",
+                "address": "1 Wisdom Drive, Sorie Town",
+                "logo" : "https://sierrachurch.vercel.app/images/MountainOfGod.jpg",
+                "contact" : "+23278257068",
+                "location" : "Gloucester"
         },
         {
-            "id": 33,
-            "name": "Thus Saith the Lord Chapel Intl.",
-            "address": "80 Off Pratt Street, New England ville",
-            "logo" : "https://sierrachurch.vercel.app/images/ThusSaithTheLord.jpg",
-            "contact" : "+23279017130",
-            "location" : "New England Ville"
+                "id": 34,
+                "name": "Thus Saith the Lord Chapel Intl.",
+                "address": "80 Off Pratt Street, New England ville",
+                "logo" : "https://sierrachurch.vercel.app/images/ThusSaithTheLord.jpg",
+                "contact" : "+23279017130",
+                "location" : "New England Ville"
+            },
+           
+            {
+                "id": 35,
+                "name": "Apostolic Fire Ground Ministries",
+                "address": "2 Wisdom Drive, Back of Old School",
+                "logo" : "./images/Afgm.png",
+                "contact" : "+23231042504",
+                "location" : "Hill Station"
             },
             {
-            "id": 35,
-            "name": "Sanctuary Praise Cathedral",
-            "address": "2 Sawi Drive, Off kingharman Road.",
-            "logo" : "https://sierrachurch.vercel.app/images/SanctuaryPriase.jpg",
-            "contact" : "+23276242622",
-            "location" : "Brookfields"
+                "id": 36,
+                "name": "New Harvest Global Ministries",
+                "address": "Railway Quarters Off Prince Williams Street, Kandeh Town ",
+                "logo" : "https://sierrachurch.vercel.app/images/NewHarvest.jpg",
+                "contact" : "+23278908012",
+                "location" : "Bo City"
             },
             {
-            "id": 36,
-            "name": "Deeper Life Bible Church",
-            "address": "1 Wellesley Street, Back of the tank.",
-            "logo" : "https://sierrachurch.vercel.app/images/DeeperLifeBibleChurch.jpg",
-            "contact" : "+23276679385",
-            "location" : "Mount Aureol"
+                "id": 37,
+                "name": "Christ International Worship Center",
+                "address": "YWCA New Hall, Bus Stop",
+                "logo" : "https://sierrachurch.vercel.app/images/CIWC.jpg",
+                "contact" : "+23234036070",
+                "location" : "Brookfields"
             },
             {
-            "id": 37,
-            "name": "Christ International Worship Center",
-            "address": "YWCA New Hall, Bus Stop",
-            "logo" : "https://sierrachurch.vercel.app/images/CIWC.jpg",
-            "contact" : "+23234036070",
-            "location" : "Brookfields"
-            },
-            {
-            "id": 38,
-            "name": "Bethel Temple Ministries International",
-            "address": "Opposite Rokel Sec. School",
-            "logo" : "https://sierrachurch.vercel.app/images/BethelTemple.jpg",
-            "contact" : "+23276046960",
-            "location" : "Tower Hill"
+                "id": 38,
+                "name": "Bethel Temple Ministries International",
+                "address": "Opposite Rokel Sec. School",
+                "logo" : "https://sierrachurch.vercel.app/images/BethelTemple.jpg",
+                "contact" : "+23276046960",
+                "location" : "Tower Hill"
             },
             {
                 "id": 39,
@@ -429,7 +430,7 @@
                 "name": "Deeper Life Bible Church",
                 "address": "Nduvuibu Branch",
                 "logo" : "https://sierrachurch.vercel.app/images/DeeperLifeBibleChurch.jpg",
-                "contact" : "000 000 000 000",
+                "contact" : "+23276659549",
                 "location" : "Bo City"
             },
             {
@@ -538,11 +539,11 @@
             },
             {
                 "id": 67,
-                "name": "Apostolic Fire Ground Ministries",
-                "address": "Waterloo Police Post",
-                "logo" : "./images/Afgm.png",
-                "contact" : "+23231042504",
-                "location" : "Waterloo"
+                "name": "Omega Fire Ministries",
+                "address": "Geoma, Bo City",
+                "logo" : "https://sierrachurch.vercel.app/images/OFM.jpg",
+                "contact" : "+23279520123",
+                "location" : "Bo City"
             },
             {
                 "id": 68,
@@ -986,12 +987,13 @@
             },
             {
                 "id": 123,
-                "name": "Omega Fire Ministries",
-                "address": "Geoma, Bo City",
-                "logo" : "https://sierrachurch.vercel.app/images/OFM.jpg",
-                "contact" : "+23279520123",
-                "location" : "Bo City"
+                "name": "Apostolic Fire Ground Ministries",
+                "address": "Waterloo Police Post",
+                "logo" : "./images/Afgm.png",
+                "contact" : "+23231042504",
+                "location" : "Waterloo"
             },
+           
             {
                 "id": 124,
                 "name": "SENT Ministries",
@@ -1039,6 +1041,22 @@
                 "logo" : "https://sierrachurch.vercel.app/images/NewHarvest.jpg",
                 "contact" : "+23231165615",
                 "location" : "Wilkinson Road Area"
+            },
+            {
+                "id": 130,
+                "name": "Evangelical Reformed Church of Christ",
+                "address": "Beamay School, Wilberforce Military Barracks",
+                "logo" : "https://sierrachurch.vercel.app/images/EvangelicalReformedChurch.jpg",
+                "contact" : "+23230261563",
+                "location" : "Wilberforce"
+            },
+            {
+                "id": 131,
+                "name": "Christ Home Bible Church",
+                "address": "1b Babadorie Hills, Off Spur Road",
+                "logo" : "https://sierrachurch.vercel.app/images/ChristHomeBibleChurch.jpg",
+                "contact" : "+23277782790",
+                "location" : "Spur Road"
             }
     ]
 }
