@@ -462,7 +462,7 @@
                 "address": "38 Wilkinson Road, Lumley Road",
                 "logo" : "https://sierrachurch.vercel.app/images/DominionCity.jpg",
                 "contact" : "+23230147263",
-                "location" : "Lumley"
+                "location" : "Wilkinson Road Area"
             },
             {
                 "id": 58,
@@ -985,12 +985,36 @@
                 "location" : "Kissy"
             },
             {
-                "id": 122,
+                "id": 123,
                 "name": "Omega Fire Ministries",
                 "address": "Geoma, Bo City",
                 "logo" : "https://sierrachurch.vercel.app/images/OFM.jpg",
                 "contact" : "+23279520123",
                 "location" : "Bo City"
+            },
+            {
+                "id": 124,
+                "name": "SENT Ministries",
+                "address": "82 Sanda Street, Calaba Town",
+                "logo" : "https://sierrachurch.vercel.app/images/SENTMinistries.jpg",
+                "contact" : "+232077553989",
+                "location" : "Calaba Town"
+            },
+            {
+                "id": 125,
+                "name": "Faith In Action Movement",
+                "address": "Waterloo, Western Rural",
+                "logo" : "https://sierrachurch.vercel.app/images/FaithInAction.jpg",
+                "contact" : "+23278112047",
+                "location" : "Waterloo"
+            },
+            {
+                "id": 126,
+                "name": "Forward in Faith Ministries International",
+                "address": "23 British Road, Black Stone, New London",
+                "logo" : "https://sierrachurch.vercel.app/images/ForwardInFaith.jpg",
+                "contact" : "+23279146607",
+                "location" : "Kossoh Town"
             }
     ]
 }
