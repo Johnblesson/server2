@@ -322,11 +322,11 @@
             },
             {
                 "id": 41,
-                "name": "Jehovah Shalom International Kingdom Ministries",
-                "address": "8p Sumaila Town",
-                "logo" : "https://sierrachurch.vercel.app/images/JehovahShalom.jpg",
-                "contact" : "+23276292267",
-                "location" : "Sumaila Town"
+                "name": "Cornerstone Ministries int'l",
+                "address": "1 Rock church Drive, Off Kanigo Drive, Juba Hills",
+                "logo" : "https://sierrachurch.vercel.app/images/CornerstoneMinistries.jpg",
+                "contact" : "+23276142220",
+                "location" : "Juba"
             },
             {
                 "id": 42,
@@ -917,7 +917,7 @@
                 "name": "Mountain of Fire and Miracles Ministries",
                 "address": "",
                 "logo" : "https://sierrachurch.vercel.app/images/MountainofFire.jpg",
-                "contact" : "+23275",
+                "contact" : "",
                 "location" : "Brookfields"
             },
             {
@@ -926,6 +926,70 @@
                 "address": "Momoh Street, Mendewa",
                 "logo" : "https://sierrachurch.vercel.app/images/MountainofGrace.jpg",
                 "contact" : "+23278563433",
+                "location" : "Bo City"
+            },
+            {
+                "id": 116,
+                "name": "Spring of Life Chapel",
+                "address": "1st Pump, Adonkia",
+                "logo" : "https://sierrachurch.vercel.app/images/dove.jpg",
+                "contact" : "+23276498080",
+                "location" : "Goderich"
+            },
+            {
+                "id": 117,
+                "name": "King of Kings Fellowship",
+                "address": "51 Davies Street, Kissy",
+                "logo" : "https://sierrachurch.vercel.app/images/dove.jpg",
+                "contact" : "+23276498080",
+                "location" : "Kissy"
+            },
+            {
+                "id": 118,
+                "name": "Jehovah Shalom International Kingdom Ministries",
+                "address": "8p Sumaila Town",
+                "logo" : "https://sierrachurch.vercel.app/images/JehovahShalom.jpg",
+                "contact" : "+23276292267",
+                "location" : "Sumaila Town"
+            },
+            {
+                "id": 119,
+                "name": "Cornerstone Ministries int'l",
+                "address": "11 Elliot Street",
+                "logo" : "https://sierrachurch.vercel.app/images/CornerstoneMinistries.jpg",
+                "contact" : "+23276142220",
+                "location" : "Brookfields"
+            },
+            {
+                "id": 120,
+                "name": "Dominion Prophetic Resurrection Int'l Ministries",
+                "address": "Grafton",
+                "logo" : "https://sierrachurch.vercel.app/images/DominionPropheticResurrection.jpg",
+                "contact" : "+23278707030",
+                "location" : "Grafton"
+            },
+            {
+                "id": 121,
+                "name": "House of Glory Int'l Ministries",
+                "address": "1 Lassie Street, Bo City",
+                "logo" : "https://sierrachurch.vercel.app/images/HouseOfGlory.jpg",
+                "contact" : "+23278317721",
+                "location" : "Bo City"
+            },
+            {
+                "id": 122,
+                "name": "Victory Tabernacle Church",
+                "address": "41a Lowcost Housing, Kissy",
+                "logo" : "https://sierrachurch.vercel.app/images/VictoryTabernacleChurch.jpg",
+                "contact" : "000 00 000 000",
+                "location" : "Kissy"
+            },
+            {
+                "id": 122,
+                "name": "Omega Fire Ministries",
+                "address": "Geoma, Bo City",
+                "logo" : "https://sierrachurch.vercel.app/images/OFM.jpg",
+                "contact" : "+23279520123",
                 "location" : "Bo City"
             }
     ]
