@@ -1057,6 +1057,14 @@
                 "logo" : "https://sierrachurch.vercel.app/images/ChristHomeBibleChurch.jpg",
                 "contact" : "+23277782790",
                 "location" : "Spur Road"
+            },
+            {
+                "id": 132,
+                "name": "Wind of Change Outreach Ministry",
+                "address": "1 Blessing Drive, Gloucester Village",
+                "logo" : "https://sierrachurch.vercel.app/images/WindOfChange.jpg",
+                "contact" : "+23276762475",
+                "location" : "Gloucester"
             }
     ]
 }
