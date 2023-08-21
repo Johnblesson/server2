@@ -1065,6 +1065,87 @@
                 "logo" : "https://sierrachurch.vercel.app/images/WindOfChange.jpg",
                 "contact" : "+23276762475",
                 "location" : "Gloucester"
+            },
+            {
+                "id": 133,
+                "name": "New Creation World Outreach Ministries",
+                "address": "17d Riverside Drive",
+                "logo" : "https://sierrachurch.vercel.app/images/NewCreationWorld.jpg",
+                "contact" : "+23278215883",
+                "location" : "Kingharman Road Area"
+            },
+            {
+                "id": 134,
+                "name": "Mount Sinai Harvest Time Ministry",
+                "address": "Upper George Brook Dwarzack",
+                "logo" : "https://sierrachurch.vercel.app/images/dove.jpg",
+                "contact" : "+23299614269",
+                "location" : "Dwarzak Area"
+            },
+            {
+                "id": 135,
+                "name": "The Potter’s Evangelistic Praise Ministries",
+                "address": "41 FAO Drive, Crab Town Aberdeen",
+                "logo" : "https://sierrachurch.vercel.app/images/ThePotter’sEvangelistic.jpg",
+                "contact" : "+23278534109",
+                "location" : "Aberdeen"
+            },
+            {
+                "id": 136,
+                "name": "Living Stone Evangelistic Ministries Int'l HQ",
+                "address": "21 Orphanage Street Kamayama Lumley",
+                "logo" : "https://sierrachurch.vercel.app/images/LivingStoneEvangelistic.jpg",
+                "contact" : "+23278134899",
+                "location" : "Lumley"
+            },
+            {
+                "id": 137,
+                "name": "Living Stone Evangelistic Ministries Int'l",
+                "address": "Zion Drive by Alie Timbo Drive, Saccomah, Teko Area",
+                "logo" : "https://sierrachurch.vercel.app/images/LivingStoneEvangelistic.jpg",
+                "contact" : "+23272795780",
+                "location" : "Makeni City"
+            },
+            {
+                "id": 138,
+                "name": "Living Stone Evangelistic Ministries Int'l",
+                "address": "16 Dauwoh Street, Kenema",
+                "logo" : "https://sierrachurch.vercel.app/images/LivingStoneEvangelistic.jpg",
+                "contact" : "+23278933535/+23288285832",
+                "location" : "Kenema City"
+            },
+            {
+                "id": 139,
+                "name": "Living Stone Evangelistic Ministries Int'l",
+                "address": "19 Gbaiima Lane off Old Police Barracks",
+                "logo" : "https://sierrachurch.vercel.app/images/LivingStoneEvangelistic.jpg",
+                "contact" : "+23276271973",
+                "location" : "Bo City"
+            },
+            {
+                "id": 140,
+                "name": "Faith Chapel Ministries Int'l",
+                "address": "",
+                "logo" : "https://sierrachurch.vercel.app/images/FaithChapelMinistries.jpg",
+                "contact" : "+23231998636",
+                "location" : ""
+            },
+            {
+                "id": 141,
+                "name": "Flaming Evangelical Ministries Int.",
+                "address": "41e Taylor Street Wellington",
+                "logo": "https://sierrachurch.vercel.app/images/flaming.jpg",
+                "contact" : "+23276444267/+23288133034",
+                "location" : "Wellington"
+            },
+            {
+                "id": 142,
+                "name": "Full Gospel Evangelistic Ministries",
+                "address": "69 Lumley Road",
+                "logo": "https://sierrachurch.vercel.app/images/FullGospel.jpg",
+                "contact" : "+2327676783514",
+                "location" : "Wilberforce"
             }
+            
     ]
 }
