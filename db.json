@@ -1238,7 +1238,7 @@
                 "id": 153,
                 "name": "Chapel of Peace",
                 "address": "",
-                "logo" : "https://sierrachurch.vercel.app/images/doveh.jpg",
+                "logo" : "https://sierrachurch.vercel.app/images/dove.jpg",
                 "contact" : "",
                 "location" : "Sumaila Town"
             },
@@ -1327,8 +1327,40 @@
                 "name": "Mary Queen of Peace Catholic Church",
                 "address": "8XPX+F25, Newton",
                 "logo" : "https://sierrachurch.vercel.app/images/dove.jpg",
-                "contact" : "+23230135831",
+                "contact" : "",
                 "location" : "Newton"
+            },
+            {
+                "id": 165,
+                "name": "Winning Souls Praise Chapel Ministries",
+                "address": "37 John Street, Royal Academy",
+                "logo" : "https://sierrachurch.vercel.app/images/WinningSoulsPraiseChapel.jpg",
+                "contact" : "",
+                "location" : "Campbell Street Area"
+            },
+            {
+                "id": 166,
+                "name": "Christ Temple",
+                "address": "25 Africanus Road, Back of Mega Cola Factory, Kissy Dockyard",
+                "logo" : "https://sierrachurch.vercel.app/images/ChristTemple.jpg",
+                "contact" : "+23278823448/+23279455332",
+                "location" : "Kissy"
+            },
+            {
+                "id": 167,
+                "name": "Word of Fire Ministries - WOFM",
+                "address": "43 Bye-Pass Road, Sarolla Junction, Kissy",
+                "logo" : "https://sierrachurch.vercel.app/images/WordofFire.jpg",
+                "contact" : "+23278962805",
+                "location" : "Kissy"
+            },
+            {
+                "id": 168,
+                "name": "The Lion of Judah Ministries Int'l",
+                "address": "42 Bright Street, Brookfields",
+                "logo" : "https://sierrachurch.vercel.app/images/TheLionOfJudah.jpg",
+                "contact" : "+23276255211",
+                "location" : "Brookfields"
             }
     ]
 }
