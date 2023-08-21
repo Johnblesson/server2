@@ -1259,13 +1259,76 @@
                 "location" : "Leicester"
             },
             {
-                "id": 155,
+                "id": 156,
                 "name": "Destiny International Worship Center",
-                "address": "23A Bass Street Brookfield (Back of Great Commission Building),",
+                "address": "23A Bass Street Brookfield (Back of Great Commission Building)",
                 "logo" : "https://sierrachurch.vercel.app/images/DestinyInternational.jpg",
                 "contact" : "+23276653524",
                 "location" : "Brookfields"
+            },
+            {
+                "id": 157,
+                "name": "St John Paul II Quasi Parish",
+                "address": "",
+                "logo" : "https://sierrachurch.vercel.app/images/dove.jpg",
+                "contact" : "+23273017021",
+                "location" : ""
+            },
+            {
+                "id": 158,
+                "name": "Our Lady Star of the Sea",
+                "address": "FP2C+2PG",
+                "logo" : "https://sierrachurch.vercel.app/images/dove.jpg",
+                "contact" : "+23288287629",
+                "location" : ""
+            },
+            {
+                "id": 159,
+                "name": "Our Lady Star of the Sea - Juba",
+                "address": "Peninsular Road, Juba Barrack",
+                "logo" : "https://sierrachurch.vercel.app/images/OurLadyStaroftheSea.jpg",
+                "contact" : "+23274868899",
+                "location" : "Lumley"
+            },
+            {
+                "id": 160,
+                "name": "St Paul's Parish Church",
+                "address": "1 Pivot Street, Wilberforce by Africell Office",
+                "logo" : "https://sierrachurch.vercel.app/images/dove.jpg",
+                "contact" : "",
+                "location" : "Wilberforce"
+            },
+            {
+                "id": 161,
+                "name": "St. George's Catholic Parish Church",
+                "address": "Murray Town Barracks",
+                "logo" : "https://sierrachurch.vercel.app/images/dove.jpg",
+                "contact" : "",
+                "location" : "Murray Town"
+            },
+            {
+                "id": 162,
+                "name": "St Raphael Roman Catholic Church",
+                "address": "Waterloo",
+                "logo" : "https://sierrachurch.vercel.app/images/dove.jpg",
+                "contact" : "+23276418805",
+                "location" : "Waterloo"
+            },
+            {
+                "id": 163,
+                "name": "Christ the Good Shepherd Catholic Church",
+                "address": "925J+XC7, Jama Town",
+                "logo" : "https://sierrachurch.vercel.app/images/dove.jpg",
+                "contact" : "+23230135831",
+                "location" : "Jama Town"
+            },
+            {
+                "id": 164,
+                "name": "Mary Queen of Peace Catholic Church",
+                "address": "8XPX+F25, Newton",
+                "logo" : "https://sierrachurch.vercel.app/images/dove.jpg",
+                "contact" : "+23230135831",
+                "location" : "Jama Town"
             }
-            
     ]
 }
