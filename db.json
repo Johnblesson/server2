@@ -1145,6 +1145,78 @@
                 "logo": "https://sierrachurch.vercel.app/images/FullGospel.png",
                 "contact" : "+2327676783514",
                 "location" : "Wilberforce"
+            },
+            {
+                "id": 143,
+                "name": "Living Word of Faith Outreach Ministries Int'l",
+                "address": "Mile 13, Peninsula",
+                "logo" : "https://sierrachurch.vercel.app/images/LivingWordOfFaith.jpg",
+                "contact" : "+23230966201",
+                "location" : "Mile 13"
+            },
+            {
+                "id": 144,
+                "name": "Divine Word of Faith Ministry",
+                "address": "95 Turay Drive, Kanigo",
+                "logo" : "https://sierrachurch.vercel.app/images/dove.jpg",
+                "contact" : "+23290450024",
+                "location" : "Juba"
+            },
+            {
+                "id": 145,
+                "name": "Divine Word of Faith Ministry",
+                "address": "Thomas Compound, Aberdeen",
+                "logo" : "https://sierrachurch.vercel.app/images/dove.jpg",
+                "contact" : "+23290450024",
+                "location" : "Aberdeen"
+            },
+            {
+                "id": 146,
+                "name": "Flaming Bible Church Aberdeen",
+                "address": "1 Gordon Street, Aberdeen First Junction",
+                "logo" : "https://sierrachurch.vercel.app/images/FlamingBibleChurch.jpg",
+                "contact" : "+23276615757",
+                "location" : "Aberdeen"
+            },
+            {
+                "id": 147,
+                "name": "New Harvest Global Ministries",
+                "address": "Mans Kargbo Drive Boflah Waterloo",
+                "logo" : "https://sierrachurch.vercel.app/images/NewHarvest.jpg",
+                "contact" : "+23288961721",
+                "location" : "Waterloo"
+            },
+            {
+                "id": 148,
+                "name": "New Harvest Global Ministries",
+                "address": "Lugbu Chiefdom, Bo District",
+                "logo" : "https://sierrachurch.vercel.app/images/NewHarvest.jpg",
+                "contact" : "",
+                "location" : "Bo City"
+            },
+            {
+                "id": 148,
+                "name": "Battle AXE Ministry International",
+                "address": "25 Clarkson drive, Lumley",
+                "logo" : "https://sierrachurch.vercel.app/images/BattleAxe.jpg",
+                "contact" : "079995568",
+                "location" : "Lumley"
+            },
+            {
+                "id": 149,
+                "name": "Battle AXE Ministry International",
+                "address": "Kwashi Avenue",
+                "logo" : "https://sierrachurch.vercel.app/images/BattleAxe.jpg",
+                "contact" : "+23278294916",
+                "location" : "Kenema City"
+            },
+            {
+                "id": 150,
+                "name": "Battle AXE Ministry International",
+                "address": "Beoku Lane",
+                "logo" : "https://sierrachurch.vercel.app/images/BattleAxe.jpg",
+                "contact" : "+23278730563",
+                "location" : "Congo Cross"
             }
             
     ]
