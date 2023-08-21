@@ -1217,6 +1217,14 @@
                 "logo" : "https://sierrachurch.vercel.app/images/BattleAxe.jpg",
                 "contact" : "+23278730563",
                 "location" : "Congo Cross"
+            },
+            {
+                "id": 151,
+                "name": "New Apostolic Church",
+                "address": "",
+                "logo" : "https://sierrachurch.vercel.app/images/NewApostolicChurch.jpg",
+                "contact" : "+23278730563",
+                "location" : "Congo Cross"
             }
             
     ]
