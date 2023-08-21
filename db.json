@@ -1080,7 +1080,7 @@
                 "address": "Upper George Brook Dwarzack",
                 "logo" : "https://sierrachurch.vercel.app/images/dove.jpg",
                 "contact" : "+23299614269",
-                "location" : "Dwarzak Area"
+                "location" : "Dwarzark Area"
             },
             {
                 "id": 135,
@@ -1225,6 +1225,46 @@
                 "logo" : "https://sierrachurch.vercel.app/images/NewApostolicChurch.jpg",
                 "contact" : "+23278730563",
                 "location" : "Congo Cross"
+            },
+            {
+                "id": 152,
+                "name": "Foursquare Gospel Church",
+                "address": "",
+                "logo" : "https://sierrachurch.vercel.app/images/FoursquareGospelChurch.png",
+                "contact" : "",
+                "location" : "Dwarzark Area"
+            },
+            {
+                "id": 153,
+                "name": "Chapel of Peace",
+                "address": "",
+                "logo" : "https://sierrachurch.vercel.app/images/doveh.jpg",
+                "contact" : "",
+                "location" : "Sumaila Town"
+            },
+            {
+                "id": 154,
+                "name": "New Harvest Global Ministries",
+                "address": "Dwarzark Junction",
+                "logo" : "https://sierrachurch.vercel.app/images/NewHarvest.jpg",
+                "contact" : "",
+                "location" : "Dwarzark Area"
+            },
+            {
+                "id": 155,
+                "name": "Resurrection Power Outreach Ministry Int’l",
+                "address": "Bintu Turay Drive Off College Rd Leicester Peak near American Embassy",
+                "logo" : "https://sierrachurch.vercel.app/images/ResurrectionPowerOutreach.jpg",
+                "contact" : "+23278005141",
+                "location" : "Leicester"
+            },
+            {
+                "id": 155,
+                "name": "Destiny International Worship Center",
+                "address": "23A Bass Street Brookfield (Back of Great Commission Building),",
+                "logo" : "https://sierrachurch.vercel.app/images/DestinyInternational.jpg",
+                "contact" : "+23276653524",
+                "location" : "Brookfields"
             }
             
     ]
