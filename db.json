@@ -1191,7 +1191,7 @@
                 "name": "New Harvest Global Ministries",
                 "address": "Lugbu Chiefdom, Bo District",
                 "logo" : "https://sierrachurch.vercel.app/images/NewHarvest.jpg",
-                "contact" : "",
+                "contact" : "000 00 000 000",
                 "location" : "Bo City"
             },
             {
@@ -1221,7 +1221,7 @@
             {
                 "id": 151,
                 "name": "New Apostolic Church",
-                "address": "",
+                "address": "Congo Cross",
                 "logo" : "https://sierrachurch.vercel.app/images/NewApostolicChurch.jpg",
                 "contact" : "+23278730563",
                 "location" : "Congo Cross"
@@ -1229,17 +1229,17 @@
             {
                 "id": 152,
                 "name": "Foursquare Gospel Church",
-                "address": "",
+                "address": "Dwarzark",
                 "logo" : "https://sierrachurch.vercel.app/images/FoursquareGospelChurch.png",
-                "contact" : "",
+                "contact" : "000 000 000 000",
                 "location" : "Dwarzark Area"
             },
             {
                 "id": 153,
                 "name": "Chapel of Peace",
-                "address": "",
+                "address": "Sumaila Town",
                 "logo" : "https://sierrachurch.vercel.app/images/dove.jpg",
-                "contact" : "",
+                "contact" : "000 000 000 000",
                 "location" : "Sumaila Town"
             },
             {
@@ -1247,7 +1247,7 @@
                 "name": "New Harvest Global Ministries",
                 "address": "Dwarzark Junction",
                 "logo" : "https://sierrachurch.vercel.app/images/NewHarvest.jpg",
-                "contact" : "",
+                "contact" : "000 000 000 000",
                 "location" : "Dwarzark Area"
             },
             {
@@ -1269,33 +1269,33 @@
             {
                 "id": 157,
                 "name": "St John Paul II Quasi Parish",
-                "address": "",
+                "address": "Grafton",
                 "logo" : "https://sierrachurch.vercel.app/images/dove.jpg",
                 "contact" : "+23273017021",
-                "location" : ""
+                "location" : "Grafton"
             },
             {
                 "id": 158,
                 "name": "Our Lady Star of the Sea",
-                "address": "FP2C+2PG",
+                "address": "Peninsular Road, Juba Barrack (FP2C+2PG)",
                 "logo" : "https://sierrachurch.vercel.app/images/dove.jpg",
                 "contact" : "+23288287629",
-                "location" : ""
+                "location" : "Juba"
             },
             {
                 "id": 159,
-                "name": "Our Lady Star of the Sea - Juba",
-                "address": "Peninsular Road, Juba Barrack",
-                "logo" : "https://sierrachurch.vercel.app/images/OurLadyStaroftheSea.jpg",
-                "contact" : "+23274868899",
-                "location" : "Lumley"
+                "name": "House of Restoration Ministry",
+                "address": "45 Adelaide Street, Opposite Mr. Klin",
+                "logo" : "https://sierrachurch.vercel.app/images/HouseOfRestorationMinistry.jpg",
+                "contact" : "+23276813292",
+                "location" : "St. John Area"
             },
             {
                 "id": 160,
                 "name": "St Paul's Parish Church",
                 "address": "1 Pivot Street, Wilberforce by Africell Office",
                 "logo" : "https://sierrachurch.vercel.app/images/dove.jpg",
-                "contact" : "",
+                "contact" : "000 000 000 000",
                 "location" : "Wilberforce"
             },
             {
@@ -1303,7 +1303,7 @@
                 "name": "St. George's Catholic Parish Church",
                 "address": "Murray Town Barracks",
                 "logo" : "https://sierrachurch.vercel.app/images/dove.jpg",
-                "contact" : "",
+                "contact" : "000 000 000 000",
                 "location" : "Murray Town"
             },
             {
@@ -1327,7 +1327,7 @@
                 "name": "Mary Queen of Peace Catholic Church",
                 "address": "8XPX+F25, Newton",
                 "logo" : "https://sierrachurch.vercel.app/images/dove.jpg",
-                "contact" : "",
+                "contact" : "000 000 000 000",
                 "location" : "Newton"
             },
             {
